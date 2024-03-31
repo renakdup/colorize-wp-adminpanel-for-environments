@@ -53,13 +53,13 @@ The right corner of admin-bar will be displayed current environment
 
 ### Other colors
 
-Development:
+Development:  
 ![env.png](./doc/img/development.png)
 ---
-Staging:
+Staging:  
 ![env.png](./doc/img/staging.png)
 ---
-Production:
+Production:  
 ![env.png](./doc/img/production.png)
 
 ## Change colors

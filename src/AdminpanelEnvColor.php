@@ -8,7 +8,7 @@
  * Author Email: renakdup@gmail.com
  * Author Site: https://wp-yoda.com/en/
  *
- * Version: 1.0.0
+ * Version: 1.0.1
  * Licence: MIT License
  */
 
