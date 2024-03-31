@@ -41,7 +41,7 @@ if ( ! class_exists( Renakdup\AdminpanelEnvColor\AdminpanelEnvColor::class ) ) {
 	return;
 }
 
-AdminpanelEnvColor::init();
+Renakdup\AdminpanelEnvColor\AdminpanelEnvColor::init();
 ```
 
 **That's it!**
