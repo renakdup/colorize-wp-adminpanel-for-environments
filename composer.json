@@ -1,0 +1,35 @@
+{
+    "name": "renakdup/colorize-wp-adminpanel-for-environments",
+    "description": "WordPress script to colorize admin-bar for different environments. Developers, Content Managers, and others will never confuse the environment where they work.",
+    "type": "library",
+    "keywords": [
+        "wordpress",
+        "wordpress plugin",
+        "wordpress adminbar",
+        "wordpress admin bar",
+        "wp",
+        "wp plugin",
+        "wp dev",
+        "wordpress dev",
+        "wordpress colorize adminbar",
+        "wordpress-library"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrei Pisarevskii",
+            "email": "renakdup@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "require-dev": {
+        "ergebnis/composer-normalize": "^2.42"
+    },
+    "autoload": {
+        "psr-4": {
+            "Renakdup\\AdminpanelEnvColor\\": "./src/"
+        }
+    }
+}
