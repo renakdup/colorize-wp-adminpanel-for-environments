@@ -1,5 +1,7 @@
 # Colorize WordPress adminpanel for environments
 
+[![Latest Stable Version](http://poser.pugx.org/renakdup/colorize-wp-adminpanel-for-environments/v)](https://packagist.org/packages/renakdup/colorize-wp-adminpanel-for-environments) [![Total Downloads](http://poser.pugx.org/renakdup/colorize-wp-adminpanel-for-environments/downloads)](https://packagist.org/packages/renakdup/colorize-wp-adminpanel-for-environments) [![PHP Version Require](http://poser.pugx.org/renakdup/colorize-wp-adminpanel-for-environments/require/php)](https://packagist.org/packages/renakdup/colorize-wp-adminpanel-for-environments) [![License](http://poser.pugx.org/renakdup/colorize-wp-adminpanel-for-environments/license)](https://packagist.org/packages/renakdup/colorize-wp-adminpanel-for-environments)
+
 Confusing development environments is easy, especially when working under deadline pressure, on multiple projects
 simultaneously, or simply due to human error.
 
