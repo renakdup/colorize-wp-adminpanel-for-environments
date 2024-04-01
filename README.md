@@ -1,4 +1,4 @@
-# Colorize WordPress adminpanel for environments
+# Colorize WordPress admin panel for environments
 
 [![Total Downloads](http://poser.pugx.org/renakdup/colorize-wp-adminpanel-for-environments/downloads)](https://packagist.org/packages/renakdup/colorize-wp-adminpanel-for-environments) [![PHP Version Require](http://poser.pugx.org/renakdup/colorize-wp-adminpanel-for-environments/require/php)](https://packagist.org/packages/renakdup/colorize-wp-adminpanel-for-environments) [![Latest Stable Version](http://poser.pugx.org/renakdup/colorize-wp-adminpanel-for-environments/v)](https://packagist.org/packages/renakdup/colorize-wp-adminpanel-for-environments) [![License](http://poser.pugx.org/renakdup/colorize-wp-adminpanel-for-environments/license)](https://packagist.org/packages/renakdup/colorize-wp-adminpanel-for-environments)
 
